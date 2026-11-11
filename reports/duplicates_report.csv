@@ -1,0 +1,5 @@
+file_name,relative_path,duplicate_type,key_fields,key_value,occurrences,line_numbers
+customers.csv,customers.csv,full_duplicate,customer_id,C001,2,2|3
+customers.csv,customers.csv,key_conflict,customer_id,C002,2,4|5
+orders.csv,sales/orders.csv,full_duplicate,order_id,O102,2,5|6
+orders.csv,sales/orders.csv,key_conflict,order_id,O101,2,3|4

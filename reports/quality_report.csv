@@ -1,0 +1,5 @@
+file_name,relative_path,total_records,required_errors,full_duplicates,key_conflicts,problem_records,quality_percent
+customers.csv,archive/customers.csv,1,0,0,0,0,100.00
+products.csv,catalog/products.csv,3,1,0,0,1,66.67
+customers.csv,customers.csv,5,2,1,2,4,20.00
+orders.csv,sales/orders.csv,5,1,1,2,3,40.00

@@ -1,0 +1,5 @@
+file_name,relative_path,column_count,columns,issues
+customers.csv,archive/customers.csv,5,customer_id|email|country|status|legacy_code,schema_mismatch with customers.csv
+products.csv,catalog/products.csv,4,product_id|name|amount|description,
+customers.csv,customers.csv,5,customer_id|email|country|status|comment,schema_mismatch with archive/customers.csv
+orders.csv,sales/orders.csv,5,order_id|customer_id|product_id|amount|note,

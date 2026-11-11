@@ -1,0 +1,6 @@
+customer_id,email,country,status,comment
+C001,ivan@example.com,RU,active,Premium client
+C001,ivan@example.com,RU,active,Premium client
+C002,olga@example.com,US,active,First record
+C002,other@example.com,US,pending,Changed duplicate key
+C003,null,N/A,inactive,

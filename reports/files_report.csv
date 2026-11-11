@@ -1,0 +1,5 @@
+file_name,relative_path,size_bytes,line_count,modified_at
+customers.csv,archive/customers.csv,88,2,2026-11-11 18:28:31
+products.csv,catalog/products.csv,112,4,2026-11-11 18:28:31
+customers.csv,customers.csv,315,6,2026-11-11 18:28:31
+orders.csv,sales/orders.csv,190,6,2026-11-11 18:28:31

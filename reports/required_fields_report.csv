@@ -1,0 +1,5 @@
+file_name,relative_path,line_number,field,error_type,original_value
+products.csv,catalog/products.csv,4,name,empty_value,
+customers.csv,customers.csv,6,email,null_value,NULL
+customers.csv,customers.csv,6,country,null_value,N/A
+orders.csv,sales/orders.csv,3,product_id,empty_value,
