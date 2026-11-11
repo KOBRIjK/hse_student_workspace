@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,amount,note
+O100,C001,P01,125.50, First order
+O101,C002,,300.00,N/A
+O101,C002,P02,350.00,Changed amount
+O102,C003,P03,99.00,repeat
+O102,C003,P03,99.00,repeat

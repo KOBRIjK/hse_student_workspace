@@ -1,0 +1,6 @@
+customer_id,email,country,status,comment
+C001, Ivan@Example.COM , Россия , активен , Premium   client
+C001, Ivan@Example.COM , Россия , активен , Premium   client
+C002,olga@example.com,US,active,First record
+C002,other@example.com,USA,pending,Changed duplicate key
+C003,NULL,N/A,inactive,
